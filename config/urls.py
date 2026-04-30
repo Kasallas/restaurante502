@@ -22,4 +22,4 @@ urlpatterns = [
     path('', include('gestion.urls')),
 ]
 
-#hello world
+# HELLO WORLD
