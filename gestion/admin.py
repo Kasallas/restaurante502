@@ -8,3 +8,5 @@ admin.site.register(Plato)
 admin.site.register(Orden)
 admin.site.register(DetalleOrden)
 admin.site.register(Factura)
+
+#hello world
